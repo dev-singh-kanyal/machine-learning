@@ -1,2 +1,3 @@
-*/.ipynb_checkpoints/*
-*/betaversion/*
+**/.ipynb_checkpoints/
+**/betaversion/
+**/__pycache__/
